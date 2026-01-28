@@ -1,1 +1,1 @@
-Phishing Web Application that stores data inside a Text File.
+Phishing Web Application that steals login credentials and stores that data inside a Text File.
